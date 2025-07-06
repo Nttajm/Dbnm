@@ -43,7 +43,7 @@ function initializeUI() {
     if (db_ui.input && db_ui.output) {
         renderInitialInfo();
     } else {
-        print('pre-x UI not available');
+        print('pre-js UI not available');
     }
 }
 
